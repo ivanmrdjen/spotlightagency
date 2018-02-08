@@ -1,2 +1,0 @@
-# spotlightagency
-GitHub Pages
